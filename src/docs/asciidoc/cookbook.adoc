@@ -1,10 +1,19 @@
 = Cookbook
+:toc:
 
 == Chicken
 
 :leveloffset: +2
 
 include::_honey_garlic_chicken.adoc[]
+
+:leveloffset: -2
+
+== Beef
+
+:leveloffset: + 2
+
+include::_classic_slow_cooker_chilli.adoc[]
 
 :leveloffset: -2
 
@@ -21,5 +30,7 @@ include::_honey_baked_ham.adoc[]
 :leveloffset: +2
 
 include::_creamed_spinach.adoc[]
+
+include::_potatoes_au_gratin.adoc[]
 
 :leveloffset: -2
