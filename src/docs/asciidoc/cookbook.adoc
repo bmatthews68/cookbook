@@ -15,3 +15,11 @@ include::_honey_garlic_chicken.adoc[]
 include::_honey_baked_ham.adoc[]
 
 :leveloffset: -2
+
+== Vegetables
+
+:leveloffset: +2
+
+include::_creamed_spinach.adoc[]
+
+:leveloffset: -2
