@@ -1,0 +1,44 @@
+= Honey Baked Ham
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[.discrete]
+=== Joint
+| 3-4 kg | ham (bone-in)
+| 2 tbsp | Dijon mustard
+| &#188; cup | orange juice
+2+a|
+[.discrete]
+=== Honey Glaze
+| &#189; cup | orange juice
+| &#189; cup | clear honey
+| 2 tbsp     | Dijon mustard
+| &#188; tsp | ground giner
+| 2 tsp      | cornstarch
+|===
+
+== Procedure
+
+. Preheat oven to 170&#176;C.
+
+. Score ham.
+
+. Combine 2 tbsp of Dijon mustard and &#188; cup of orange juice in bowl with a whisk. Then brush over the ham.
+
+. Cover tightly in tin foil and cook for 24-30 minutes per kg.
++
+[%autowidth,frame=none,grid=none]
+|===
+| 3 kg | 72 - 90 mins
+| 3&#189; kg | 84 - 102 mins
+| 4 kg | 96 - 120 mins
+|===
+
+. Combine &#188; cup of orange juice, &#188; cup of clear honey, 2 tsp of Dijon mustard, &#188; tsp of ground ginger and 2 tsp of cornstarch with a whisk in a small saucepan. Bring to boil over medium heat. Turn down the heat and allow to simmer for 2-3 mins. Then set aside to cool.
+
+. 15 minutes before ham is done remove from oven and brush on the honey glaze mixture.
+
+. Cook uncovered for last 15 minutes at 220&#176;C.

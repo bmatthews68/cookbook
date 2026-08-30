@@ -1,0 +1,17 @@
+= Cookbook
+
+== Chicken
+
+:leveloffset: +2
+
+include::_honey_garlic_chicken.adoc[]
+
+:leveloffset: -2
+
+== Ham
+
+:leveloffset: +2
+
+include::_honey_baked_ham.adoc[]
+
+:leveloffset: -2
