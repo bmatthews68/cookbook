@@ -1,6 +1,7 @@
 = Cookbook
-:toc:
 :doctype: book
+:toc:
+:toclevels: 1
 :!sectnums:
 :!partnums:
 
