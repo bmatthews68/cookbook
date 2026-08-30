@@ -1,36 +1,39 @@
 = Cookbook
 :toc:
+:doctype: book
+:!sectnums:
+:!partnums:
 
-== Chicken
+= Chicken
 
-:leveloffset: +2
+:leveloffset: +1
 
 include::_honey_garlic_chicken.adoc[]
 
-:leveloffset: -2
+:leveloffset: -1
 
-== Beef
+= Beef
 
-:leveloffset: + 2
+:leveloffset: +1
 
 include::_classic_slow_cooker_chilli.adoc[]
 
-:leveloffset: -2
+:leveloffset: -1
 
-== Ham
+= Pork
 
-:leveloffset: +2
+:leveloffset: +1
 
 include::_honey_baked_ham.adoc[]
 
-:leveloffset: -2
+:leveloffset: -1
 
-== Vegetables
+= Vegetables
 
-:leveloffset: +2
+:leveloffset: +1
 
 include::_creamed_spinach.adoc[]
 
 include::_potatoes_au_gratin.adoc[]
 
-:leveloffset: -2
+:leveloffset: -1
