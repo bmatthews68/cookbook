@@ -17,6 +17,8 @@ include::_honey_garlic_chicken.adoc[]
 
 :leveloffset: +1
 
+include::_chilli_con_carne.adoc[]
+
 include::_classic_slow_cooker_chilli.adoc[]
 
 :leveloffset: -1
@@ -26,6 +28,10 @@ include::_classic_slow_cooker_chilli.adoc[]
 :leveloffset: +1
 
 include::_honey_baked_ham.adoc[]
+
+include::_pork_medallions.adoc[]
+
+include::_slow_cooker_pork_casserole.adoc[]
 
 :leveloffset: -1
 

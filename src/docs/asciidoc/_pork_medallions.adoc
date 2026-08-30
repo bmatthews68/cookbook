@@ -1,0 +1,38 @@
+= Pork Medallions
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1 tbsp | oil
+| 600 g | pork medallions
+| 2 tbsp | butter (unsalted)
+| 2 | banana shallots (thinly sliced)
+| 250 g | chestnut mushrooms (sliced)
+| 1  clove | garlic (crushed)
+| 1 tbsp | plain flour
+| 100 ml | madeira or sherry
+| 400 ml | chicken stock
+| 4 sprigs | thyme
+| &#189; tbsp | wholegrain mustard
+|===
+
+== Method
+
+. Heat oil in large skillet and fry pork medallions on each side for 2 - 3 minutes until golden brown. Set aside on a plate.
+
+. Melt 2 tbsp of butter in pan and fry shallots and mushrooms over a medium heat for 10 minutes.
+
+. Add the garlic and cook for another 1 minute.
+
+. Stir in the flour and cook for another 2 minutes.
+
+. Whisk in the madeira and boild for 2 minutes.
+
+. Gradually stir in the stock until the sauce is lump free.
+
+. Add the thyme and mustard and season to taste.
+
+. Restore pork medallions to the pan and simmer uncovered for 5 - 7 minutes (until the pork is cooked through). Stirring through the creamy sauce.
+
+Serve with mashed potatoes and kale or xref:_creamed_spinach.adoc#_creamed_spinach[spinach].
