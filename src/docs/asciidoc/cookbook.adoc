@@ -5,6 +5,14 @@
 :!sectnums:
 :!partnums:
 
+= Breakfast
+
+:leveloffset: +1
+
+include::_good_old_fashioned_pancakes.adoc[]
+
+:leveloffset: -1
+
 = Chicken
 
 :leveloffset: +1
@@ -16,6 +24,8 @@ include::_honey_garlic_chicken.adoc[]
 = Beef
 
 :leveloffset: +1
+
+include::_beef_and_guinness_stew.adoc[]
 
 include::_chilli_con_carne.adoc[]
 
