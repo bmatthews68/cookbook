@@ -45,6 +45,8 @@ include::_classic_slow_cooker_chilli.adoc[]
 
 include::_honey_baked_ham.adoc[]
 
+include::_one_pot_sausage_and_rice.adoc[]
+
 include::_pork_medallions.adoc[]
 
 include::_slow_cooker_pork_casserole.adoc[]
