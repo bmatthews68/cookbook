@@ -17,7 +17,13 @@ include::_good_old_fashioned_pancakes.adoc[]
 
 :leveloffset: +1
 
+include::_buckwheat_porridge_with_chicken.adoc[]
+
+include::_elena_s_buckwheat_porridge.adoc[]
+
 include::_honey_garlic_chicken.adoc[]
+
+include::_slow_cooker_spanish_chicken.adoc[]
 
 :leveloffset: -1
 

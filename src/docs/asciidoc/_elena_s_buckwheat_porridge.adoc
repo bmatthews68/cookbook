@@ -1,0 +1,27 @@
+= Elena's Buckwheat Porridge
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1 | chicken breast
+| 2 cups | buckwheat porridge
+| 6 cups | water
+| 1 | chicken stock cube
+| 1 tsp | salt
+| &#189; tsp | black pepper
+| &#189; | onion (diced)
+| &#189; | carrot (diced)
+|===
+
+== Method
+
+. Add chicken to pot.
+
+. Cover with buckwheat.
+
+. Add water, carrot, onion, salt, pepper, crumble stock cube, and bring to boil.
+
+. After 10 minutes check. If water remains then cook a little longer.
+
+. Rest for 10 minutes.
