@@ -25,6 +25,8 @@ include::_honey_garlic_chicken.adoc[]
 
 include::_slow_cooker_spanish_chicken.adoc[]
 
+include::_spanish_omelette.adoc[]
+
 :leveloffset: -1
 
 = Beef
@@ -37,6 +39,8 @@ include::_chilli_con_carne.adoc[]
 
 include::_classic_slow_cooker_chilli.adoc[]
 
+include::_classic_steak_au_poivre.adoc[]
+
 :leveloffset: -1
 
 = Pork
@@ -46,6 +50,8 @@ include::_classic_slow_cooker_chilli.adoc[]
 include::_honey_baked_ham.adoc[]
 
 include::_one_pot_sausage_and_rice.adoc[]
+
+include::_pork_loin_crock_pot.adoc[]
 
 include::_pork_medallions.adoc[]
 
