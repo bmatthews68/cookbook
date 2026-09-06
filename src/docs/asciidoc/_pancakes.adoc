@@ -1,0 +1,23 @@
+= Pancakes
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1&#189; cups | plain flour
+| 3&#189; tsps | baking powder
+| 1 tbsp | sugar
+| &#188; tsp | salt
+| 1&#188; cups | milk
+| 3 tbsps | butter (unsalted)
+| 1 | large egg
+|===
+
+== Method
+
+. Mix dry ingredients (flour, baking powder, sugar, salt).
+
+. Make a well and add wet ingredients (milk, butter, egg).
+
+. Mix dry ingredients into well until smooth batter is formed.
+

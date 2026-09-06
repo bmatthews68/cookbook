@@ -1,0 +1,19 @@
+= Elenas Pancakes
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1 litre | milk
+| 4 | large eggs
+| 3 tbsps | sugar
+| &#189; tsp | salt
+| | flour
+| 4 tbsp | sunflower oil
+|===
+
+== Method
+
+. Mix milk, egs, sugar, salt, and flour with a whisk. The amount of flour required will depend on your desired consistency.
+
+. Add sunflower oil before cooking.

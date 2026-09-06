@@ -9,7 +9,11 @@
 
 :leveloffset: +1
 
+include::_elenas_pancakes.adoc[]
+
 include::_good_old_fashioned_pancakes.adoc[]
+
+include::_pancakes.adoc[]
 
 include::_scrambled_eggs.adoc[]
 
@@ -89,7 +93,11 @@ include::_oatmeal_cookies.adoc[]
 
 include::_sandwich_bread.adoc[]
 
+include::_scones.adoc[]
+
 include::_soldiers_chocolate_chip_cookies.adoc[]
+
+include::_syroki.adoc[]
 
 :leveloffset: -1
 
