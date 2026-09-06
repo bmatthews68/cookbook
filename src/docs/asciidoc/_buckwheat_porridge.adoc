@@ -1,0 +1,23 @@
+= Buckwheat Porridge
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1 cup | roasted buckwheat groats
+| 3 cups | water
+| 1 tbsp | butter (unsalted)
+| &#189; tsp | salt
+|===
+
+== Method
+
+. Wash buckwheat groats
+
+. Bring water to boil
+
+. Add buckwheat groats and cook covered for 10 minutes.
+
+. Turn off heat. Add salt and let sit for 10 minutes.
+
+. Top with butter.

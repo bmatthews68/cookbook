@@ -13,6 +13,8 @@ include::_elenas_pancakes.adoc[]
 
 include::_good_old_fashioned_pancakes.adoc[]
 
+include::_homemade_crsipy_hash_browns.adoc[]
+
 include::_pancakes.adoc[]
 
 include::_scrambled_eggs.adoc[]
@@ -69,15 +71,27 @@ include::_slow_cooker_pork_casserole.adoc[]
 
 :leveloffset: -1
 
-= Vegetables & Rice
+= Vegetables, Salads, & Rice
 
 :leveloffset: +1
 
 include::_basmati_rice.adoc[]
 
+include::_buckwheat_porridge.adoc[]
+
 include::_creamed_spinach.adoc[]
 
+include::_guacamole.adoc[]
+
+include::_humus.adoc[]
+
+include::_perfect_rice_pilaf.adoc[]
+
 include::_potatoes_au_gratin.adoc[]
+
+include::_steamed_carrots_with_honey_and_butter.adoc[]
+
+include::_tomato_salsa.adoc[]
 
 :leveloffset: -1
 
@@ -106,5 +120,7 @@ include::_syroki.adoc[]
 :leveloffset: +1
 
 include::_mayonnaise.adoc[]
+
+include::_tahini.adoc[]
 
 :leveloffset: -1
