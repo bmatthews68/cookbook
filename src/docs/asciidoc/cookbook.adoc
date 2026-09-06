@@ -86,3 +86,11 @@ include::_sandwich_bread.adoc[]
 include::_soldiers_chocolate_chip_cookies.adoc[]
 
 :leveloffset: -1
+
+= Miscellaneous
+
+:leveloffset: +1
+
+include::_mayonnaise.adoc[]
+
+:leveloffset: -1
