@@ -1,0 +1,38 @@
+= Basmati Rice
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 1 cup | Basmati rice
+| 1&#189; cups | water
+| &#188; tsp | salt
+|===
+
+== Method
+
+. Place water, rice (unwashed) and a pinch of salt in sauce pan over medium heat.
+
+. Bring to a simmer (uncovered).
+
+. Cover with a lid and cook for 12 minutes.
+
+. Check if water is gone after 12 minutes. If not replace lid quickly and cook for longer.
+
+. Remove from heat and allow to steam (keep the lid on!) for 5 - 10 minutes.
+
+. Fluff with a fork.
+
+.Adjustments
+[sidebar]
+--
+If you are cooking more
+[%autowidth%header]
+|===
+| Rice | Water | Salt | Cook time
+| 1 cup | 1&#189; cups | &#188; tsp | 12 minutes
+| 2 cup | 3 cups | &#189; tsp | 13 minutes
+| 3 cup | 4&#189; cups | &#190; tsp | 14 minutes
+| 4 cup | 5 cups | 1 tsp | 15 minutes
+|===
+--

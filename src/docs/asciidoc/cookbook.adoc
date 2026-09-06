@@ -11,6 +11,8 @@
 
 include::_good_old_fashioned_pancakes.adoc[]
 
+include::_scrambled_eggs.adoc[]
+
 include::_syrniki.adoc[]
 
 :leveloffset: -1
@@ -63,9 +65,11 @@ include::_slow_cooker_pork_casserole.adoc[]
 
 :leveloffset: -1
 
-= Vegetables
+= Vegetables & Rice
 
 :leveloffset: +1
+
+include::_basmati_rice.adoc[]
 
 include::_creamed_spinach.adoc[]
 

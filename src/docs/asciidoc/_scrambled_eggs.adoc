@@ -1,0 +1,21 @@
+= Scrambled Eggs
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 4 | large eggs
+| &#8539; tsp | salt
+| &#188; tsp | paprika
+| 4 tsps | butter (unsalted)
+|===
+
+== Method
+
+. Whisk eggs, salt, and paprika until completely combined and foamy.
+
+. Melt butter in skillet over low heat until bubbling.
+
+. Add whisked eggs, stirring frequently for 2 -3 mins.
+
+. Remove from heat to prevent drying.
