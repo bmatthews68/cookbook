@@ -5,13 +5,13 @@
 [%autowidth,frame=none,grid=none]
 |===
 2+a|
-[.discrete]
+[discrete]
 === Joint
 | 3-4 kg | ham (bone-in)
 | 2 tbsp | Dijon mustard
 | &#188; cup | orange juice
 2+a|
-[.discrete]
+[discrete]
 === Honey Glaze
 | &#189; cup | orange juice
 | &#189; cup | clear honey

@@ -7,7 +7,7 @@
 | 1&#189; - 2&#188; kg | pork loinfootnote:[Not tenderloin] (trimmed of excess fat)
 | 4 tbsps | butter slicked into 4 pads
 2+a|
-[.discrete]
+[discrete]
 === Brine
 | 6 cups | warm water
 | &#189; cup | kosher salt (or &#188; cup table salt)
@@ -16,7 +16,7 @@
 | 2 | bay leaves
 | 1 cup | ice cubes
 2+a|
-[.discrete]
+[discrete]
 === Spice Mix
 | 1 tbsp | chilli powder
 | 1 tbsp | garlic powder
@@ -25,7 +25,7 @@
 | 1 tsp | salt
 | &#189; tsp | ground black pepper
 2+a|
-[.discrete]
+[discrete]
 === Honey Citrus Sauce
 | &#189; cup | honey
 | &#188; cup | apricot preserves

@@ -5,7 +5,7 @@
 [%autowidth,frame=none,grid=none]
 |===
 2+a|
-[.discrete]
+[discrete]
 === Dough
 | 4 cups | plain flour
 | &#189; cup | unsalted butter (softened)
@@ -16,7 +16,7 @@
 | 1 cup | buttermilkfootnote:[Use kefir in Russia]
 | 1 | large egg
 2+a|
-[.discrete]
+[discrete]
 | &#188; cup | butter milk
 | &#188; cup | unsalted butter (melted)
 === Glaze
