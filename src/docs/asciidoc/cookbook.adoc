@@ -23,6 +23,8 @@ include::_buckwheat_porridge_with_chicken.adoc[]
 
 include::_elena_s_buckwheat_porridge.adoc[]
 
+include::_grilled_chicken_and_sundried_tomato_pasta.adoc[]
+
 include::_honey_garlic_chicken.adoc[]
 
 include::_slow_cooker_spanish_chicken.adoc[]
