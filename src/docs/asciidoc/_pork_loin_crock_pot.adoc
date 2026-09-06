@@ -16,7 +16,7 @@
 | 2 | bay leaves
 | 1 cup | ice cubes
 2+a|
-[discrete]
+[.discrete]
 === Spice Mix
 | 1 tbsp | chilli powder
 | 1 tbsp | garlic powder
@@ -25,7 +25,7 @@
 | 1 tsp | salt
 | &#189; tsp | ground black pepper
 2+a|
-[discrete]
+[.discrete]
 === Honey Citrus Sauce
 | &#189; cup | honey
 | &#188; cup | apricot preserves

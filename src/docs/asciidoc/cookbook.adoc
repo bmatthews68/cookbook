@@ -11,6 +11,8 @@
 
 include::_good_old_fashioned_pancakes.adoc[]
 
+include::_syrniki.adoc[]
+
 :leveloffset: -1
 
 = Chicken
@@ -66,5 +68,21 @@ include::_slow_cooker_pork_casserole.adoc[]
 include::_creamed_spinach.adoc[]
 
 include::_potatoes_au_gratin.adoc[]
+
+:leveloffset: -1
+
+= Breads, cakes and cookies
+
+:leveloffset: +1
+
+include::_digestive_biscuits.adoc[]
+
+include::_irish_soda_bread.adoc[]
+
+include::_oatmeal_cookies.adoc[]
+
+include::_sandwich_bread.adoc[]
+
+include::_soldiers_chocolate_chip_cookies.adoc[]
 
 :leveloffset: -1

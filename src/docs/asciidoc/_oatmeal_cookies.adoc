@@ -1,0 +1,25 @@
+= Oatmeal Cookies
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 208 g | oatmeal flakes
+| 240 g | granulated sugar
+| 2     | large eggs
+| 16 g  | baking powder
+| pinch | salt (small)
+| 272 g | assorted flour
+| 80 g  | dried nuts / candied fruit
+| 320 g | butter
+|===
+
+== Method
+
+. Preheat oven to 200&#176;C.
+
+. Mix all ingredients together.
+
+. Cut cookies to size and place on baking tray in refrigerator to chill for 30 minutes.
+
+. Bake in oven for 12-15 minutes.
