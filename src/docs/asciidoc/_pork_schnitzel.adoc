@@ -1,0 +1,33 @@
+= Pork Schnitzel
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 4 | pork boneless chops/steaks (125 - 150 g each)
+| &#190; tsp | salt
+| &#189; tsp | black pepper
+| 50 g | plain flour
+| 2 | large eggs (whisked)
+| 90 g | panko breadcrumbs
+| 3 tbsps | xref:_herbes_de_provence.adoc#_herbes_de_provence[herbes de provence]
+| 125 ml | vegetable oil
+|===
+
+== Method
+
+. Pound each steak to 0.5 cm thickness.
+
+. Mix flour, pepper, and pepper in first bowl.
+
+. Whisk eggs in second bowl.
+
+. Mix breadcrumbs and herbes de provence in third bowl.
+
+. Heat oil in pan.
+
+. Pre-heat oven to 70&#176;C.
+
+. Coat each steak in flour, dip in eggs and cover with breadcrumbs.
+
+. Fry on each side for 2 minutes and transfer to oven.

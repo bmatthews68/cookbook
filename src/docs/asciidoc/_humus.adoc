@@ -6,7 +6,7 @@
 |===
 | 425 g | chickpeas (can or jar)
 | 1 | lemon (juiced)
-| &#188; cup | tahini
+| &#188; cup | xref:_tahini.adoc#_tahini[tahini]
 | 1 clove | garlic (small)
 | &#189; tsp | ground cumin
 | 2 tbsps | extra virgin olive oil

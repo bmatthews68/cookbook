@@ -11,6 +11,8 @@
 
 include::_elenas_pancakes.adoc[]
 
+include::_french_toast.adoc[]
+
 include::_good_old_fashioned_pancakes.adoc[]
 
 include::_homemade_crsipy_hash_browns.adoc[]
@@ -23,9 +25,19 @@ include::_syrniki.adoc[]
 
 :leveloffset: -1
 
+= Soups
+
+:leveloffset: +1
+
+include::_canadian_yellow_split_pea_soup_with_ham.adoc[]
+
+:leveloffset: -1
+
 = Chicken
 
 :leveloffset: +1
+
+include::_baked_chicken_drumsticks.adoc[]
 
 include::_buckwheat_porridge_with_chicken.adoc[]
 
@@ -66,6 +78,8 @@ include::_one_pot_sausage_and_rice.adoc[]
 include::_pork_loin_crock_pot.adoc[]
 
 include::_pork_medallions.adoc[]
+
+include::_pork_schnitzel.adoc[]
 
 include::_slow_cooker_pork_casserole.adoc[]
 
@@ -118,6 +132,8 @@ include::_syroki.adoc[]
 = Miscellaneous
 
 :leveloffset: +1
+
+include::_herbes_de_provence.adoc[]
 
 include::_mayonnaise.adoc[]
 

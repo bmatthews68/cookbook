@@ -1,0 +1,11 @@
+= Herbes de Provence
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 4 tsp | thyme (dried)
+| 3 tsp | rosemary (dried)
+| 1&#188; tsp | marjoram (dried)
+| &#190; tsp | oregano
+|===

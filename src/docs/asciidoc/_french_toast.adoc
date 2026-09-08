@@ -1,0 +1,24 @@
+= French Toast
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| &#190; cup | milk
+| 2 | large eggs
+| 1 tsp | vanilla extract (optional)
+| &#188; tsp | ground cinnamon or nutmeg (optional)
+| | salt to taste
+| 6 | thick slices of bread
+| 1 tbsp | butter (unsalted)
+|===
+
+== Method
+
+. Whisk eggs, milk, salt and optional spices together in a shallow bowl.
+
+. Lightly butter skillet and heat over medium - high heat.
+
+. Dunk bread slices in mixture, soak both sides.
+
+. Transfer bread to skillet, cook until golden (3 - 4 minutes) per side.
