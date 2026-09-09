@@ -33,12 +33,12 @@
 | 2 tbsps | balsamic vinegar
 | 1 tbsp | soy sauce
 | 1 tbsp | Dijon mustard
-| 1 tsp | dried parslet
-| 1 tsp | dried dried basil
+| 1 tsp | dried parsley
+| 1 tsp | dried basil
 | 1 tsp | dried rosemary
-| &#189; | dried oregano
-| &#189; | dried thyme
-| &#188; | red pepper flakes
+| &#189; tsp | dried oregano
+| &#189; tsp | dried thyme
+| &#188; tsp | red pepper flakes
 |===
 
 == Method

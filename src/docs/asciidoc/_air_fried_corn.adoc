@@ -1,0 +1,23 @@
+= Air Fried Corn
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 2 | corn cobs
+| | olive oil
+| | salt
+| | pepper
+|===
+
+== Method
+
+. Strip leaves and silks.
+
+. Coat with olive oil.
+
+. Season with salt and pepper.
+
+. Cook for 10 - 15 minutes at 200&#176;.
+
+. Turn after 5 - 7 minutes.

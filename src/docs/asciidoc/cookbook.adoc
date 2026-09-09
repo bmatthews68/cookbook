@@ -41,6 +41,10 @@ include::_baked_chicken_drumsticks.adoc[]
 
 include::_buckwheat_porridge_with_chicken.adoc[]
 
+include::_chicken_kiev.adoc[]
+
+include::_chicken_plov.adoc[]
+
 include::_elena_s_buckwheat_porridge.adoc[]
 
 include::_grilled_chicken_and_sundried_tomato_pasta.adoc[]
@@ -75,6 +79,8 @@ include::_honey_baked_ham.adoc[]
 
 include::_one_pot_sausage_and_rice.adoc[]
 
+include::_pork_and_beef_cutlets.adoc[]
+
 include::_pork_loin_crock_pot.adoc[]
 
 include::_pork_medallions.adoc[]
@@ -88,6 +94,8 @@ include::_slow_cooker_pork_casserole.adoc[]
 = Vegetables, Salads, & Rice
 
 :leveloffset: +1
+
+include::_air_fried_corn.adoc[]
 
 include::_basmati_rice.adoc[]
 
@@ -112,6 +120,8 @@ include::_tomato_salsa.adoc[]
 = Breads, cakes and cookies
 
 :leveloffset: +1
+
+include::_banana_bread.adoc[]
 
 include::_digestive_biscuits.adoc[]
 

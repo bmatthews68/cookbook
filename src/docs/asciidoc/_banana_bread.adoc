@@ -1,0 +1,41 @@
+= Banana Bread
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Dry
+| 2&#188; cups | plain flour
+| 1 tsp | baking soda
+| &#189; tsp | cooking salt
+| 1&#188; tsps | cinnamon powder
+| &#188; tsp | all spice
+2+a|
+[discrete]
+=== Wet
+| 4 | medium ripe bananas (400 g peeled)
+| 1 cup | brown sugar
+| 3 | large eggs (3 egg yolks, 2 egg whites)
+| &#8531; cup | sour cream
+| 80 g | butter (unsalted)
+| &#8531; cup | vegetable oil
+| 2&#189; tsps | honey
+|===
+
+== Method
+
+. Preheat oven to 180&#176;C.
+
+. Whisk dry ingredients.
+
+. Mash bananas with potato masher in a separate bowl.
+
+. Add wet ingredients to banana purée and whisk to combine.
+
+. Add dry ingredients and mix with spatula until flour has just incorporated.
+
+. Place in baking tin.
+
+. Bake for 70 minutes.

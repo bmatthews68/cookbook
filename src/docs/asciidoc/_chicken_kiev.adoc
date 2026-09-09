@@ -1,0 +1,39 @@
+= Chicken Kiev
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Garlic Butter
+| 12 tsp / 180 g | butter (unsalted)
+| 4 tsp | freshly chopped parsley
+| 4 cloves | garlic (minced)
+| &#189; tsp | salt
+2+a|
+[discrete]
+=== Chicken Kievs
+| 4 | chicken breats (220 - 250 g each)
+| 1 tsp | salt
+| &#189; tsp | black pepper
+| 2 | eggs (lightly whisked)
+| &#189; cup | flour
+| 2 cups | breadcrumbs
+|===
+
+== Method
+
+. Mix garlic butter ingredients in a bowl. Roll up in parchment paper and chill in fridge.
+
+. Cut breasts in half (horizontally) and flatten with a rolling pin if necessary.
+
+. Place baton of butter in the middle of each flattened breast and roll the chicken around the butter.
+
+. Freeze for 30 minutes wrapped in cling wrap.
+
+. Bread chicken coating it with flour, dipping it in the egg and covering in breadcrumbs.
+
+. Freeze for another 30 minutes.
+
+. Cook in air fryer for 18 - 20 minutes at 180&#176;C - 200&#176;C.
