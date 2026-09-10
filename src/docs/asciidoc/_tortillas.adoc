@@ -1,0 +1,32 @@
+= Tortillas
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Option 1 -- with waterd
+| 2 cups | plain flour
+| 3 tbsp | olive oil
+| 1 tsp | salt
+| &#190; cup | hot water
+2+a|
+[discrete]
+=== Option 2 -- with greek yoghurt
+| 260 g | plain flour
+| 2 tbsp | olive oil
+| 1 tsp | salt
+| 1&#189; tsp | baking powder
+| 200 g | greek yoghurt
+|===
+
+== Method
+
+. Mix ingredients in bowl and form into dough.
+
+. Cover and rest for 30 minutes.
+
+. Divide and from smaller dough balls.
+
+. Roll dough balls thin and cook for 30 - 60 seconds per side on hot pan.

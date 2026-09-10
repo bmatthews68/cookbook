@@ -41,6 +41,8 @@ include::_baked_chicken_drumsticks.adoc[]
 
 include::_buckwheat_porridge_with_chicken.adoc[]
 
+include::_chicken_fajitas.adoc[]
+
 include::_chicken_kiev.adoc[]
 
 include::_chicken_plov.adoc[]
@@ -68,6 +70,8 @@ include::_chilli_con_carne.adoc[]
 include::_classic_slow_cooker_chilli.adoc[]
 
 include::_classic_steak_au_poivre.adoc[]
+
+include::_slow_cooker_bolognese.adoc[]
 
 :leveloffset: -1
 
@@ -138,6 +142,8 @@ include::_scones.adoc[]
 include::_soldiers_chocolate_chip_cookies.adoc[]
 
 include::_syroki.adoc[]
+
+include::_tortillas.adoc[]
 
 :leveloffset: -1
 

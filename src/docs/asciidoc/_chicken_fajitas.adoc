@@ -1,0 +1,45 @@
+= Chicken Fajitas
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Seasoning
+| &#189; tbsp | chilli powder
+| &#189; tbsp | ground cumin
+| 1 tsp | garlic powder
+| &#189; tsp | paprika
+| &#189; tsp | oregano
+| &#189; tsp | kosher salt
+| &#188; tsp | ground black pepper
+2+a|
+[discrete]
+=== Fajitas
+| 3 | boneless & skinless chicken breasts
+| 1 | onion (thinly sliced)
+| 1 | red bell pepper (thinly sliced)
+| 1 | green bell pepper (thinly sliced)
+| 1 | yellow bell pepper (thinly sliced)
+| 2 tbsp | olive oil
+| &#189; | lime (juiced)
+|===
+
+== Method
+
+. Mix seasoning ingredients in a small bowl.
+
+. Heat oil in pan.
+
+. Season chicken breasts and sear the breasts for 7 - 8 minutes on each side.
+
+. Slice onions and paprika
+
+. Remove chicken from pan.
+
+. Cook onion and paprika for 4 - 5 minutes.
+
+. Slice chicken, add back to the pan, sprinkle lime juice and mix.
+
+Server with xref:_tortillas.adoc#_tortillas[tortillas] and sour cream, xref:_guacamole.adoc#_guacamole[guacamole], and/or xref:_tomato_salsa.adoc#_tomato_salsa[salsa].
