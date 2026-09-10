@@ -1,0 +1,34 @@
+= Gyoza
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Wrappers
+| 240 g | plain flour
+| &#189; tsp | salt
+| 120 ml | hot water (just boiled)
+2+a|
+[discrete]
+=== Filling
+|===
+
+== Method
+
+=== Wrappers
+
+. Dissolve salt in hot water.
+
+. Slowly add and mix water into flour.
+
+. Mix into a dough ball.
+
+. Knead for 10 minutes.
+
+. Split in half.
+
+. Roll each half into 4 cm logs, wrap in cling film, and rest for 30 minutes.
+
+== Filling

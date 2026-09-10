@@ -75,6 +75,8 @@ include::_classic_steak_au_poivre.adoc[]
 
 :leveloffset: +1
 
+inclide::_gyoza.adoc[]
+
 include::_honey_baked_ham.adoc[]
 
 include::_one_pot_sausage_and_rice.adoc[]
