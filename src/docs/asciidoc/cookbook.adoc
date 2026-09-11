@@ -149,6 +149,8 @@ include::_tortillas.adoc[]
 
 :leveloffset: +1
 
+include::_dijon_mustard.adoc[]
+
 include::_herbes_de_provence.adoc[]
 
 include::_italian_seasoning.adoc[]
