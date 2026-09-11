@@ -1,0 +1,65 @@
+= Swedish Meatballs
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+2+a|
+[discrete]
+=== Meatballs
+| 2 tbsp | olive oil
+| &#189; cup | onion (finely diced)
+| 2 cloves | garlic (minced)
+| &#189; cup | Panko breadcrumbs
+| &#188; cup | Parmesan cheese
+| 1 | large egg (whisked)
+| &#8531; cup | milk
+| 1 tsp | salt
+| &#188; tsp | dried oregano
+| &#188; tsp | ground allspice
+| &#188; tsp | ground nutmeg
+| &#188; tsp | ground black pepper
+| 350 g | beef (minced)
+| 225 g | pork (minced)
+2+a|
+[discrete]
+=== Sauce
+| 1 cube | chicken bouillon
+| 2 cups | beef broth
+| 2 tsp | Worcestershire sauce xref:_tips.adoc#_substitutions[(*)]
+| 1 tsp | Dijon mustard
+| 1 tsp | dried parsley
+| 4 tbsp | butter (unsalted)
+| 4 tbsp | plain flour
+| &#189; cup | sour cream
+|===
+
+== Method
+
+. Heat 1 tbsp olive oil in pan. Sauté onions for 4 minutes. Add minced garlic and cook for another 1 minute.
+
+. In large bowl, combine breadcrumbs, Parmesan cheese, whisked egg, milk, cooled onion and garlic mix, salt, dried oregano, ground allspice, ground nutmeg, and ground black pepper.
+
+. Gently incorporate the minced beef and pork.
+
+. Roll into 3.5 cm balls. Chill for 15 minutes (or overnightfootnote:[Cover if chilling overnight.])
+
+. Combine beef broth, chicken bouillon, Worcestershire sauce, Dijon mustard, and dried parsley in a large measuring cup or beaker.
+
+. Heat 1 tsp olive oil over a medium - high heat.
+
+. Brown meatballs in batches without overcrowding the pan.
+
+. Drain excess oil. Melt butter and use spatula to scrape fond.
+
+. Stir in the flour gradually to make a roux.
+
+. Transfer to a Dutch oven and gradually mix beef broth mixture with the roux.
+
+. Bring to a boil.
+
+. Temper the sour cream by mixing &#188; cup of the beef broth and roux mix with the sour cream.
+
+. Stir the tempered sour cream into the beef broth and roux mix over a low heat.
+
+. Add meatballs , cover and cook for 10 - 15 minutes.

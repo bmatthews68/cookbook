@@ -59,7 +59,7 @@ include::_spanish_omelette.adoc[]
 
 :leveloffset: -1
 
-= Beef
+= Beef & Pork
 
 :leveloffset: +1
 
@@ -70,16 +70,6 @@ include::_chilli_con_carne.adoc[]
 include::_classic_slow_cooker_chilli.adoc[]
 
 include::_classic_steak_au_poivre.adoc[]
-
-include::_slow_cooker_bolognese.adoc[]
-
-include::_slow_cooker_shepards_pie.adoc[]
-
-:leveloffset: -1
-
-= Pork
-
-:leveloffset: +1
 
 inclide::_gyoza.adoc[]
 
@@ -95,7 +85,13 @@ include::_pork_medallions.adoc[]
 
 include::_pork_schnitzel.adoc[]
 
+include::_slow_cooker_bolognese.adoc[]
+
 include::_slow_cooker_pork_casserole.adoc[]
+
+include::_slow_cooker_shepards_pie.adoc[]
+
+include::_swedish_meatballs.adoc[]
 
 :leveloffset: -1
 
