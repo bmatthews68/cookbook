@@ -1,0 +1,15 @@
+= Tips
+
+== Substitutions
+
+[%autowidth%header]
+|===
+| Quantity | Ingredient |Substitute
+| 1 tbsp | Worcestershire sauce
+a|
+[%autowidth,frame=none]
+!===
+! ½ tbsp ! soy sauce
+! ¹⁄₁₆ ! sugar
+!===
+|===
