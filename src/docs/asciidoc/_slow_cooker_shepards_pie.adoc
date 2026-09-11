@@ -1,0 +1,35 @@
+= Slow Cooker Sheppard's Pie
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 900 g | beef (minced)
+| 1 cup | onion (chopped)
+| 3 cloves | garlic (minced)
+| 1&#189; cup / 340 g | frozen vegetable mix (carrots and peas)
+| 1&#189; cup / 350 ml | beef broth
+| 60 g | tomato paste
+| 1 tbsp | Worcestershire sauce xref:_tips.adoc#_substitutions[(*)]
+| &#189; tbsp | cornstarch
+| 1 tsp; | xref:_italian_seasoning.adoc#_italian_seasoning[Italian seasoning]
+| &#189; tsp | salt
+| &#189; tsp | black pepper
+| 680 g | potatoes (mashed)
+| 1 cup | cheddar cheese (shredded)
+| | diced paprika and/or freshly chopped parsley for garnish
+|===
+
+== Method
+
+. Cook minced beef and onion over a medium heat for 8 minutes.
+
+. Stir in garlic and cook for another 1 minute.
+
+. Drain fat and transfer beef to slow cooker and add frozen vegetables.
+
+. Whisk beef broth, tomato paste, Worcestershire sauce, corn starch, Italian seasoning, salt, and pepper. Pour over the beef and frozen vegetables.
+
+. Cook on low for 4 - 6 hours.
+
+. Stir cheese into mashed potatoes, cover beef, frozen vegetables, and broth mix with a layer of mashed potatoes. Then cook for another 20 - 30 minutes.
