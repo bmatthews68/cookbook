@@ -6,7 +6,7 @@
 |===
 2+a|
 [discrete]
-=== Option 1 -- with waterd
+=== Option 1 -- with water
 | 2 cups | plain flour
 | 3 tbsp | olive oil
 | 1 tsp | salt
