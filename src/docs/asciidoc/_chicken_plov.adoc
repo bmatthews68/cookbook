@@ -1,5 +1,7 @@
 = Chicken Plov
 
+*Credit:* https://immigrantstable.com/the-ultimate-guide-for-making-uzbek-chicken-plov/
+
 == Ingredients
 
 [%autowidth,frame=none,grid=none]
