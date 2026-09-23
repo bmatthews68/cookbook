@@ -13,7 +13,7 @@ Unauthorized copying of this file, via any medium is strictly prohibited
     <artifactId>cookbook</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Containers for Java - Docs</name>
+    <name>Brian's Cookbook</name>
     <build>
         <plugins>
             <plugin>
