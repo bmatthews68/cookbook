@@ -91,6 +91,8 @@ include::_sausage_bean_and_pasta_stew.adoc[]
 
 include::_slow_cooker_bolognese.adoc[]
 
+include::_slow_cooker_italian_meatballs.adoc[]
+
 include::_slow_cooker_pork_casserole.adoc[]
 
 include::_slow_cooker_shepards_pie.adoc[]
@@ -118,6 +120,10 @@ include::_humus.adoc[]
 include::_perfect_rice_pilaf.adoc[]
 
 include::_potatoes_au_gratin.adoc[]
+
+include::_rice_pilaf.adoc[]
+
+include::_smashed_potatoes.adoc[]
 
 include::_steamed_carrots_with_honey_and_butter.adoc[]
 

@@ -1,0 +1,28 @@
+= Rice Pilaf
+
+== Ingredients
+
+[%autowidth,frame=none,grid=none]
+|===
+| 2 cups | white rice
+| 2 tsp | extra virgin olive oil
+| &#189; cup | chopped green onions (or yellow)
+| &#189; cup | chopped celery
+| 4 cups | chicken or vegetable stock/broth
+| 2 tsp | kosher salt
+| &#188; tsp | black pepper
+| &#8539; tsp | cayenne pepper
+| &#189;cup | chopped parsley
+|===
+
+== Method
+
+. Heat olive oil in sauce pan and brown the rice.
+
+. Add onion and celery and cook until softened.
+
+. Add salt, black pepper and cayenne pepper.
+
+. Add stock/broth and cook until liquid gone.
+
+. Fluff with fork and stir in parsley.
