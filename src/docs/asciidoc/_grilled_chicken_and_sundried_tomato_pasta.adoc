@@ -5,6 +5,7 @@
 [%autowidth,frame=none,grid=none]
 |===
 | 2 | large chicken breasts
+| 30 ml | olive oil (2 tbsp)
 | 1 tbsp | smoked paprika
 | 1 tsp | garlic powder
 | 1 tsp | Sea salt
