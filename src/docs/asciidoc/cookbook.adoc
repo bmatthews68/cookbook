@@ -113,6 +113,8 @@ include::_swedish_meatballs.adoc[]
 
 include::_air_fried_corn.adoc[]
 
+include::_baked_potato.adoc[]
+
 include::_basmati_rice.adoc[]
 
 include::_buckwheat_porridge.adoc[]
