@@ -39,11 +39,14 @@ include::_pumpkin_soup.adoc[]
 
 :leveloffset: +1
 
-include::_baked_chicken_drumsticks.adoc[]
 
 include::_buckwheat_porridge_with_chicken.adoc[]
 
 include::_chicken_cordon_bleu.adoc[]
+
+include::_chicken_drumsticks_airfried.adoc[]
+
+include::_chicken_drumsticks_backed.adoc[]
 
 include::_chicken_fajitas.adoc[]
 
