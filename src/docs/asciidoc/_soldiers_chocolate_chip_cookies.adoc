@@ -4,11 +4,12 @@
 
 [%autowidth,frame=none,grid=none]
 |===
-| 255 g | butter (softened)
+| 225 g | butter (softened)
 | 110 g | caster sugar
 | 275 g | plain flour
 | 1 tsp | cinnamon powder
-| 75 g | white or milk chocolate chips
+| 1 tsp | baking powder
+| 75 g | white or milk chocolate chips, or caramel chunks
 |===
 
 == Method
@@ -19,7 +20,7 @@
 
 . Sift in the flour.
 
-. Add cinnamon and chocolate chips.
+. Add cinnamon, baking powder, and chocolate chips.
 
 . Mix by hand in figure 8 motion until dough is formed.
 
