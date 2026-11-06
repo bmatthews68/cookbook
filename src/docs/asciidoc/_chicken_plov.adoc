@@ -7,7 +7,7 @@
 [%autowidth,frame=none,grid=none]
 |===
 | 2 cups | rice (long grain)
-| 7 tbsps | vegetable oil
+| 7 tbsp | vegetable oil
 | 1 kg | chicken breastsfootnote:[4 chicken breasts] (diced)
 | 2 | onions (sliced)
 | 3 | carrots (julienned)

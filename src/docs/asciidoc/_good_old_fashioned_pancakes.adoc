@@ -5,11 +5,11 @@
 [%autowidth,frame=none,grid=none]
 |===
 | 1&#189; cups | all-purpose flour
-| 3&#189; tsps | baking powder
+| 3&#189; tsp | baking powder
 | 1 tbsp | white sugar
 | &#188; tsp | salt
 | 1&#189; cups | milk
-| 3 tbsps | butter (melted)
+| 3 tbsp | butter (melted)
 | 1 | large egg
 |===
 

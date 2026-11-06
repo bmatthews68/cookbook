@@ -10,7 +10,7 @@
 | 2&#188; cups | plain flour
 | 1 tsp | baking soda
 | &#189; tsp | cooking salt
-| 1&#188; tsps | cinnamon powder
+| 1&#188; tsp | cinnamon powder
 | &#188; tsp | all spice
 2+a|
 [discrete]
@@ -21,7 +21,7 @@
 | &#8531; cup | sour cream
 | 80 g | butter (unsalted)
 | &#8531; cup | vegetable oil
-| 2&#189; tsps | honey
+| 2&#189; tsp | honey
 |===
 
 == Method

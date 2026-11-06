@@ -10,7 +10,7 @@
 | 50 g | plain flour
 | 2 | large eggs (whisked)
 | 90 g | panko breadcrumbs
-| 3 tbsps | xref:_herbes_de_provence.adoc#_herbes_de_provence[herbes de provence]
+| 3 tbsp | xref:_herbes_de_provence.adoc#_herbes_de_provence[herbes de provence]
 | 125 ml | vegetable oil
 |===
 

@@ -5,7 +5,7 @@
 [%autowidth,frame=none,grid=none]
 |===
 | 3 cups | plain flour
-| 4&#189; tsps | baking powder
+| 4&#189; tsp | baking powder
 | &#190; tsp | salt
 | 80 g | unsalted butter
 | 1 cup | cold milk
