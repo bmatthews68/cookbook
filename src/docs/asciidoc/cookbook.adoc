@@ -86,6 +86,8 @@ include::_honey_baked_ham.adoc[]
 
 include::_irish_pork_sausages.adoc[]
 
+include::_mexican_chorizo.adoc[]
+
 include::_one_pot_sausage_and_rice.adoc[]
 
 include::_pork_and_beef_cutlets.adoc[]
